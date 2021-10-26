@@ -46,17 +46,3 @@ tutorial = '[ng-click="announcementModal.closeModal()"]'
 close_course = "bb-close"
 grid_course = r'//*[@id="main-content-inner"]/div/div[1]/div[1]/div/div/div[1]/div/header/bb-square-toggle/div/label[2]'
 
-COURSE = {
-    "BEEE" : "course-list-course-_34030_1",
-    "Comm." : "course-list-course-_34111_1",
-    "CAD" : "course-list-course-_34167_1",
-    "DT-A" : "course-list-course-_34301_1",
-    "DT-B" : "course-list-course-_34333_1",
-    "DTC" : "course-list-course-_25976_1",
-    "CS" : "course-list-course-_34451_1",
-    "Gen" : "course-list-course-_33836_1",
-    "LS" : "course-list-course-_34555_1",
-    "Math-A" : "course-list-course-_34686_1",
-    "Math-B" : "course-list-course-_34727_1",
-    "Phy" : "course-list-course-_34763_1"
-}
