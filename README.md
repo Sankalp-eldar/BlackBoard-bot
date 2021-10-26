@@ -1,10 +1,12 @@
 # BlackBoard-bot
 A bot for interacting with Blackboard (BB) to attend my classes.
 
+site url for BB is in Constants.py as BASE_URL, change that if needed.
+
 Text from a readme I added while creating it:
 
 ```
-Hello! This is redme for Blackboard class attending bot.
+Hello! This is readme for Blackboard class attending bot.
 
 Here is how to use in case I share this:
 check you have these files in one directory: 
